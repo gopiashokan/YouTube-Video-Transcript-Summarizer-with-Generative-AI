@@ -115,7 +115,7 @@ def main():
 
     with st.sidebar:
 
-        image_url = 'https://raw.githubusercontent.com/gopiashokan/Youtube-Data-Harvesting-and-Warehousing/main/youtube_banner.JPG'
+        image_url = 'https://raw.githubusercontent.com/gopiashokan/YouTube-Video-Transcript-Summarizer-with-GenAI/main/image/youtube_banner.JPG'
         st.image(image_url, use_column_width=True)
         add_vertical_space(2)
 
