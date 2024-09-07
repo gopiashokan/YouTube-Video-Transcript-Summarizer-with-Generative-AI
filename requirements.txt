@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+streamlit-extras
+youtube-transcript-api
+google-generativeai
+langcodes
+language_data
