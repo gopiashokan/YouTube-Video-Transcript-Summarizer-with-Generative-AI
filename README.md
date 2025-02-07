@@ -1,4 +1,4 @@
-# YouTube Video Transcript Summarizer with GenAI
+# YouTube Video Transcript Summarizer with Generative AI
 
 **Introduction**
 
